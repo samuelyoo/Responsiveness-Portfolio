@@ -3,8 +3,13 @@ body{
 }
 .blog-footer{
     position: fixed;
-Width: 100%;
-bottom: 0;
+    Width: 100%;
+    bottom: 0;
+    float:left;
+    font-size:0.9em;
+    font-weight:bold;
+    height:1.2em;
+    text-align:center;
 }
 .card {
     margin: 0 auto; /* Added */
