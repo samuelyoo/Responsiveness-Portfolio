@@ -1,6 +1,16 @@
 body{
     background-color: lightgrey;
 }
+.blog-footer{
+    position: fixed;
+Width: 100%;
+bottom: 0;
+}
+.card {
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
 .navSns{
     padding-top: 20px;
 }
